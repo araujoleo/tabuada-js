@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+section{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.212);
+    border-radius: 10px;
+}
+
+.content{
+    margin: 130px 150px;
+}
+.content p{
+    padding: 20px 0
+}
+.content pre{
+    padding-top: 20px;
+}
